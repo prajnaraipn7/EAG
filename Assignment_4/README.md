@@ -114,10 +114,3 @@ python talk2mcp-server.py test
 - Use app-specific passwords for email authentication
 - Keep API keys secure
 
-## License
-
-[Add your license information here]
-
-## Contributing
-
-[Add contribution guidelines here] 
